@@ -6,6 +6,7 @@ public class S2 {
 	{
 		System.out.println("Hello");
 		System.out.println("Hi World");
+		System.out.println("This is repository");
 	}
 
 }
